@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# C++ build output
+cpp-poc/qam_demo
+*.o
+*.dSYM/
+
+# Demo output (--wav, --csv, --plot)
+*.wav
+*.csv
+*.png
+
+# macOS
+.DS_Store
